@@ -48,3 +48,4 @@
           - "8085:80"
         links:
           - academy-ldap
+
